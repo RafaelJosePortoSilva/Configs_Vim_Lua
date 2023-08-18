@@ -31,4 +31,3 @@ vim.cmd([[ colorscheme gruvbox ]])
 
 
 vim.cmd([[ let extension = expand('%:e') ]])
-
